@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Montserrat', sans-serif;
+}
+
+/* SideBar */
+.sidebar {
+  border-right: 1px solid gray;
+}
+
+.sidebar li {
+  font-size: 18px;
+}
+
+.sidebar li a,
+.sidebar li .btn{
+text-decoration: none;
+color: rgb(66, 66, 66);
+}
+
+.sidebar select{
+  border: none;
+  color:  rgb(66, 66, 66);
+}
+
+/* Head */
+.head {
+  box-shadow: 0px 2px 10px rgb(107, 103, 103);
+
+}
